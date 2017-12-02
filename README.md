@@ -8,3 +8,5 @@ Trained Fully Convolutional Models for Extended MNIST ByClass DataSet For Recogn
 
 # Models
 1. 1512216452_87_63.model & 1512216452_87_63.png -> 87.63%
+![](https://github.com/hanxixuana/emnist_byclass_trained_models/blob/master/pics/1512216452_87_63.png)
+
