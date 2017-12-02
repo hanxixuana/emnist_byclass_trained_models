@@ -109,7 +109,7 @@ if __name__ == '__main__':
 
             count += 1
 
-    # global mean and std
+    # channel mean and std
     channel_mean = np.mean(all_pics.transpose([1, 0, 2, 3]).reshape(3, -1), 1)
     channel_std = np.std(all_pics.transpose([1, 0, 2, 3]).reshape(3, -1), 1)
 
