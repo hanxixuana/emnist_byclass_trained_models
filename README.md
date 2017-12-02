@@ -7,4 +7,4 @@ Trained Fully Convolutional Models for Extended MNIST ByClass DataSet For Recogn
 3. standardization per channel
 
 # Models
-1. 1512065111.model & 1512065111.png ~ 87%
+1. 1512216452_87_63.model & 1512216452_87_63.png -> 87.63%
